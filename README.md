@@ -1,3 +1,5 @@
+<img src="./assets/profile.png" alt="Antonio Fulgencio" width="160" align="left" hspace="20" />
+
 # Hi, I'm Antonio Fulgencio
 
 I'm a software engineer from Crato, a small city in the sertão of Ceará, Brazil.
@@ -5,6 +7,8 @@ I'm a software engineer from Crato, a small city in the sertão of Ceará, Brazi
 I write software for a living and, honestly, also for fun. I've spent more than six years building products in e-commerce, fintech, health tech, and real-time platforms. Front-end work with React and Next.js is where I feel most at home, though these days I also work across the stack with Django, APIs, PostgreSQL, and AI-assisted development workflows.
 
 Along the way, I've built component systems, multilingual storefronts, and full-stack features for U.S. teams. At 23andMe, that meant moving between product work, A/B tests, and internal AI workflows. I care about the things that make software easier to live with after it ships: clear architecture, accessibility, good performance, and code the next person can understand.
+
+<br clear="left" />
 
 ## Right now
 
