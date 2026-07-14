@@ -17,8 +17,10 @@ I'm interested in SSR performance, type-safe APIs, and where AI genuinely helps 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TanStack-FF4154?style=flat&logo=reactquery&logoColor=white" alt="TanStack" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white" alt="Bun" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <a href="https://github.com/compozy/compozy"><img src="./assets/compozy-badge.svg" alt="Compozy" /></a>
   <img src="https://img.shields.io/badge/AI--assisted_development-111827?style=flat" alt="AI-assisted development" />
 </p>
 
